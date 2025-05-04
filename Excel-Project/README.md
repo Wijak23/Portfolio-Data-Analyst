@@ -2,7 +2,7 @@
 ## Project Overview
 Selamat darang di proyek analisis data penjualan e-commerce! Proyek ini bertujuan untuk menyampaikan wawasan mendalam dari dataset menggunakan Microsoft Excel
 
-![E-commerce Sales Banner](Excel-Project/Amazon Sales Dashboard.png)
+![E-commerce Sales Banner]([Excel-Project/Amazon Sales Dashboard.png](https://github.com/Wijak23/Portfolio-Data-Analyst/blob/main/Excel-Project/Amazon%20Sales%20Dashboard.png))
 
 ## Latar Belakang
 Dalam dunia bisnis digital yang berkembang dengan cukup pesat, data penjualan adalah kunci untuk pengambilan keputusan strategis. Proyek ini bertujuan untuk mengubah data mentah menjadi cerita bisnis yang bermakna.
