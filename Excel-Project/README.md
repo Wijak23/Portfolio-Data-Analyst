@@ -8,7 +8,7 @@ Selamat darang di proyek analisis data penjualan e-commerce! Proyek ini bertujua
 Dalam dunia bisnis digital yang berkembang dengan cukup pesat, data penjualan adalah kunci untuk pengambilan keputusan strategis. Proyek ini bertujuan untuk mengubah data mentah menjadi cerita bisnis yang bermakna.
 
 ## Sumber Data
-**Dataset** : E-commerce Sales Dataset
+**Dataset** : E-commerce Sales Dataset <br>
 **Sumber** : [kaggle-Ecommerce Sales Dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data/data)
 
 ## 📂 Dokumen Pendukung  
@@ -19,10 +19,10 @@ Dalam dunia bisnis digital yang berkembang dengan cukup pesat, data penjualan ad
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-informational?style=for-the-badge)  
 
 ## Fitur Analisis  
-**Analisis Penjualan Bulanan**
-**Identifikasi Produk Terlaris**
-**Visualisasi Tren Penjualan**
-**Breakdown Penjualan per Kategori**
+**Analisis Penjualan Bulanan** <br>
+**Identifikasi Produk Terlaris** <br>
+**Visualisasi Tren Penjualan** <br
+**Breakdown Penjualan per Kategori** <br>
 
 ## Tujuan Proyek
 1. Memberikan wawasan strategis untuk pengambilan keputusan
@@ -51,7 +51,7 @@ Key Insights
 | Wilayah dengan Penjulan Terbaik | MAHARASHTRA |
 
 ## Contoh Visualisasi 
-![image](https://github.com/user-attachments/assets/bc48cf96-c5ca-4451-bc59-b8fbb2699a31)
+![image](https://github.com/user-attachments/assets/bc48cf96-c5ca-4451-bc59-b8fbb2699a31) <br>
 Grafik Penjualan 
 
 ## Cara Menggunakan 
