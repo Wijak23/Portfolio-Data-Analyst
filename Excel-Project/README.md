@@ -21,7 +21,7 @@ Dalam dunia bisnis digital yang berkembang dengan cukup pesat, data penjualan ad
 ## Fitur Analisis  
 **Analisis Penjualan Bulanan** <br>
 **Identifikasi Produk Terlaris** <br>
-**Visualisasi Tren Penjualan** <br
+**Visualisasi Tren Penjualan** <br>
 **Breakdown Penjualan per Kategori** <br>
 
 ## Tujuan Proyek
