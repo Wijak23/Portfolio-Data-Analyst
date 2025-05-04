@@ -1,4 +1,4 @@
-# Portofolio-Data-Analyst 
+# Portfolio-Data-Analyst 
 
 Welcome to my Data Analyst portfolio. This repository showcases a collection of projects that demonstrate my skills in data analysis using various tools including Excel, SQL, and Power BI. Each project highlights my ability to clean, analyze, and visualize data to deliver meaningful insights.  
 
