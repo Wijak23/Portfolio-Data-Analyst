@@ -42,7 +42,7 @@ Dalam dunia bisnis digital yang berkembang dengan cukup pesat, data penjualan ad
 - Slicer
 - Analisis Statistik Dasar
 
-Key Insights 
+## Key Insights 
 | Metrik | Nilai|
 |--------|-------|
 | Total Penjualan | ₹ 78,592,678 |
