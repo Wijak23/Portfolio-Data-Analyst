@@ -51,7 +51,8 @@ Key Insights
 | Wilayah dengan Penjulan Terbaik | MAHARASHTRA |
 
 ## Contoh Visualisasi 
-![Grafik Penjualan](![image](https://github.com/user-attachments/assets/a28be261-4d13-4dd6-be40-73fb4d96e11f)
+![Grafik Penjualan]![image](https://github.com/user-attachments/assets/bc48cf96-c5ca-4451-bc59-b8fbb2699a31)
+
 
 ## Cara Menggunakan 
 1. Clone repository
